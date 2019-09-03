@@ -3256,15 +3256,17 @@ ul.tmenu {
 
 /* Mobile (iPad) */
 
-@media screen and (max-width: 840px) {
+	@media screen and (max-width: 840px) {
 
-	/* Icon */
+		/* Icon */
 
-		.icon.major {
-			width: 15%;
-			height: 15%;
-		}
-
+			.icon.major {
+				width: 15%;
+				height: 15%;
+			}
+	
+	}
+				
 /* Mobile */
 
 	@media screen and (max-width: 736px) {
